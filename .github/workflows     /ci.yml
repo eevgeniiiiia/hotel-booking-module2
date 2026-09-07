@@ -34,3 +34,4 @@ jobs:
 
       - name: Build Docker image
         run: docker build -t hotel-booking:1.0.0 .
+        
